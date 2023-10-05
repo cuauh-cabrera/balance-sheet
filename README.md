@@ -35,7 +35,7 @@
 
 
 
-# 📖 [Accessibility Quiz] <a name="about-project"></a>
+# 📖 [Balance Sheet] <a name="about-project"></a>
 
 > This Balance Sheet is one of the many challenges you can find as part of the Responsive Web Design Certificate at FreeCodeCamp.org
 
